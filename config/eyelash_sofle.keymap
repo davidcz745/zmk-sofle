@@ -70,7 +70,7 @@
 &kp GRAVE       &kp F1          &kp F2          &kp F3           &kp F4         &kp F5             &mmv MOVE_UP          &kp F6           &kp F7         &kp F8         &kp F9           &kp F10           &kp DEL
 &none           &kp C_PREV      &mkp UP_ARROW   &mkp C_NEXT      &kp F11        &kp F12            &mmv MOVE_DOWN        &kp HOME         &kp MINUS      &kp EQUAL      &kp LEFT_BRACKET &kp RIGHT_BRACKET &none
 &kp K_CMENU     &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &none          &none              &mmv MOVE_LEFT        &kp END          &none          &none          &none            &none             &none
-&trans          &none           &none           &none            &none          &kp PSCRN          &mmv MOVE_RIGHT       &mkp RCLK        &none          &kp PG_DN      &kp PG_UP        &nine             &trans
+&trans          &none           &none           &none            &none          &kp PSCRN          &mmv MOVE_RIGHT       &mkp RCLK        &none          &kp PG_DN      &kp PG_UP        &none             &trans
 &trans          &trans          &trans          &trans           &trans         &trans             &mkp LCLK             &kp INS          &mo 3          &trans         &trans           &trans
             >;
 
